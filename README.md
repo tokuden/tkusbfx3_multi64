@@ -21,10 +21,9 @@
 - tkusbfx3.lib                  Visual C++用のインポートライブラリです
 
 # testappのビルド方法
-+ (1) Visual Studio 2019のC++コンパイラでコンパイルします。
-+ (2) testapp\testapp.vcxproj をVisual Studui 2019で開きます。
-+ (3) tkusbfx3.dllとtkusbfx3.libとtkusbfx3.hを最新のものにします。
-+ (4) ビルドします。
++ (1) testapp\testapp.vcxproj をVisual Studio 2019で開きます。
++ (2) tkusbfx3.dllとtkusbfx3.libとtkusbfx3.hを最新のものにします。
++ (3) ビルドします。
 
 ---------------------
 
