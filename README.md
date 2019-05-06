@@ -2,11 +2,14 @@
 
 # 説明
 このレポジトリは、特電Artix-7ボード用のDLLとサンプルプロジェクトをまとめたものです。
+
 64bit版のバイナリを出力し、複数のEZ-USB FX3を同時に扱うことができます。
 
-![testapp動作画面](https://github.com/tokuden/tkusbfx3_multi64/blob/master/ezusbfx3_speed.png)
-
 [特電Artix-7ボード](http://www.tokudenkairo.co.jp/art7/)をお持ちの方は、DLLのソースファイルを[こちら](https://www.tokudenkairo.co.jp/login2/getfile.php?target=ART764BITAPI) からダウンロードできます。
+
+![imagewr動作画面](https://github.com/tokuden/tkusbfx3_multi64/blob/master/imagewr.png?raw=true)
+
+![testapp動作画面](https://github.com/tokuden/tkusbfx3_multi64/blob/master/ezusbfx3_speed.png)
 
 # 機能
 + EZ-USB FX3とFPGA間を最大380MByte/secの速度でRead/Write
