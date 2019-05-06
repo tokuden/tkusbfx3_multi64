@@ -4,6 +4,8 @@
 このレポジトリは、特電Artix-7ボード用のDLLとサンプルプロジェクトをまとめたものです。
 64bit版のバイナリを出力し、複数のEZ-USB FX3を同時に扱うことができます。
 
+
+
 [特電Artix-7ボード](http://www.tokudenkairo.co.jp/art7/)をお持ちの方は、DLLのソースファイルを[こちら](https://www.tokudenkairo.co.jp/login2/getfile.php?target=ART764BITAPI) からダウンロードできます。
 
 # 機能
@@ -24,6 +26,9 @@
 + (1) testapp\testapp.vcxproj をVisual Studio 2019で開きます。
 + (2) tkusbfx3.dllとtkusbfx3.libとtkusbfx3.hを最新のものにします。
 + (3) ビルドします。
+
+# プログラムの作成方法
+[こちら](http://www.tokudenkairo.co.jp/art7/apiprog.html)のページをご覧ください。
 
 ---------------------
 
